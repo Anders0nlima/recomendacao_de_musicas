@@ -117,4 +117,4 @@ recomendacao_de_musicas/
   - `rich` — formatação de tabelas e painéis no terminal;
   - `pytest` — execução dos testes automatizados;
   - `pandas` e `kagglehub` — download e filtragem inicial do CSV bruto.
-- **Referências teóricas:** Materiais da disciplina de Estruturas de Dados (Prof. Lídio Campos) sobre Tabelas de Dispersão, Listas Encadeadas e Grafos.
+- **Referências teóricas:** Materiais da disciplina de Estruturas de Dados (Prof. Lídio Campos) sobre Tabelas de Dispersão, Listas Encadeadas e Grafos. 
